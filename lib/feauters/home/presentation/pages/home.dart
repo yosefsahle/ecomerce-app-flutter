@@ -90,7 +90,7 @@ class _HomeState extends State<Home> {
                       cursorColor: Colors.black.withValues(alpha: 0.2),
                       decoration: InputDecoration(
                         hint: Text(
-                          "Search Products Here",
+                          "Search Products ...",
                           style: TextStyle(fontSize: 15),
                         ),
                         fillColor: Colors.amber,
